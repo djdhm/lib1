@@ -1,8 +1,8 @@
-package lib1
+package lib
 
 import  "fmt"
 import  "github.com/djdhm/external1/lib"
-func testing() {
+func Testing() {
    fmt.Println("I am in lib1 using external lib")
-   display()
+   display.Display()
 }

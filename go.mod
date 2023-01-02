@@ -2,4 +2,4 @@ module github.com/djdhm/lib1
 
 go 1.19
 
-require github.com/djdhm/external1 v1.0.0
+require github.com/djdhm/external1 v1.0.7
